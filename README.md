@@ -19,7 +19,7 @@ Steps to run the 📱 app:
 OR download the zip file
 
 4. Open the folder Space-Quiz-App
-5. Double click the file "QuizMe.xcodeproj"
+5. Double click the file "SpaceQuestions.xcodeproj"
 6. Press two keys simultaneously CMD + R to run the app
 
 
