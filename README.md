@@ -10,6 +10,8 @@ Here is an astronomy quiz iOS app for learning purposes.
 
 
 
+#
+#
 
 
 Steps to run the 📱 app:
@@ -18,7 +20,10 @@ Steps to run the 📱 app:
 2. Change directory to where you want to clone the file
 3. Type git clone https://github.com/mf3129/Space-Quiz-App.git
 
+#
+#
 OR download the zip file
+
 
 4. Open the folder Space-Quiz-App
 5. Double click the file "SpaceQuestions.xcodeproj"
