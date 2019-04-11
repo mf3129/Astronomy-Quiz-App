@@ -1,6 +1,6 @@
 # Astronomy App
 
-Here is an astronomy quiz iOS app for learning purposes. 
+Here is an astronomy quiz iOS app. Enjoy! 
 
 
 <img width="250" height="500" alt="screen shot 2018-09-16 at 02 06 55" src="https://user-images.githubusercontent.com/43025563/48663045-6fe37780-ea58-11e8-8af7-6ca316f57daa.png"> <img  width="250" height="500" alt="screen shot 2018-11-17 at 11 09 05" src="https://media.giphy.com/media/1BgsR76YEOzExdO8dq/giphy.gif"><img  width="250" height="500" alt="Screen Shot 2019-03-17 at 22 53 31" src="https://user-images.githubusercontent.com/43025563/54503896-b0b8a380-4907-11e9-8ed9-8c3926bd3958.png">
